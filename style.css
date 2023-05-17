@@ -94,3 +94,12 @@ color: #172B4D;
 section.contact-form div.row {
  margin:0;
 }
+
+section.contact-form ul {
+    display: flex;
+    list-style: none;
+    gap: 1.458vw;
+    display: flex;
+    justify-content: center;
+    margin: 200px auto 0;
+}
