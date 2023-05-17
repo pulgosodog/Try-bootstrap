@@ -19,11 +19,11 @@ div.headline h1 {
     letter-spacing: 0.37px;
     margin-top: -80px;
 }
-  
+
 div.headline h1 span {
     color: #36B37E;
 }
-  
+
 div.headline p {
     margin: 1.667vw 18.056vw 1.667vw;
     font-style: normal;
@@ -52,4 +52,31 @@ div.headline ul {
 .card-title {
     text-align: center;
     align-items: center;
+}
+
+div.row {
+    margin: 100px auto;
+}
+
+section.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12.917vw 0 0;
+}
+
+section.about-me h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+}
+
+section.about-me p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: #42526E;
 }
