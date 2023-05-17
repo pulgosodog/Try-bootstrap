@@ -80,3 +80,17 @@ section.about-me p {
     text-align: center;
     color: #42526E;
 }
+
+section.contact-form h3 {
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 52px;
+display: flex;
+align-items: center;
+color: #172B4D;
+}
+
+section.contact-form div.row {
+ margin:0;
+}
