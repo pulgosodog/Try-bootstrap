@@ -80,3 +80,33 @@ section.about-me p {
     text-align: center;
     color: #42526E;
 }
+
+.form-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 15rem;
+    gap: 9vw;
+}
+
+.formI {
+    padding: 0rem 25rem 1rem 3rem;
+}
+
+.interest {
+    width: 463px;
+    height: 256px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    padding-left: 7vw;
+    margin-top: 4rem;
+}
+
+.col-auto {
+    margin-top: 3rem;
+}
